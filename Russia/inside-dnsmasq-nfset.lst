@@ -632,4 +632,5 @@ nftset=/desktop.chat.openai.com/4#inet#fw4#vpn_domains
 nftset=/stripe.com/4#inet#fw4#vpn_domains
 nftset=/prodregistryv2.org/4#inet#fw4#vpn_domains
 nftset=/cfeatureassets.org/4#inet#fw4#vpn_domains
-nftset=/kyberswap.com//4#inet#fw4#vpn_domains
+nftset=/kyberswap.com/4#inet#fw4#vpn_domains
+nftset=/ambient.finance/4#inet#fw4#vpn_domains
