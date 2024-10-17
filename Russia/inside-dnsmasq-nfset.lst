@@ -1,7 +1,10 @@
 nftset=/.ua/4#inet#fw4#vpn_domains
 nftset=/kyberswap.com/4#inet#fw4#vpn_domains
 nftset=/ambient.finance/4#inet#fw4#vpn_domains
-nftset=/app.swaylend.com/4#inet#fw4#vpn_domains
+nftset=/swaylend.com/4#inet#fw4#vpn_domains
+nftset=/walletconnect.org/4#inet#fw4#vpn_domains
+nftset=/bako.global/4#inet#fw4#vpn_domains
+nftset=/web3modal.org/4#inet#fw4#vpn_domains
 nftset=/10minutemail.com/4#inet#fw4#vpn_domains
 nftset=/1337x.to/4#inet#fw4#vpn_domains
 nftset=/24.kg/4#inet#fw4#vpn_domains
