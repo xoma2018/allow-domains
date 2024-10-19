@@ -28,7 +28,6 @@ nftset=/allegro.pl/4#inet#fw4#vpn_domains
 nftset=/alphacoders.com/4#inet#fw4#vpn_domains
 nftset=/amazfitwatchfaces.com/4#inet#fw4#vpn_domains
 nftset=/amazonaws.com/4#inet#fw4#vpn_domains
-nftset=/ambient.finance/4#inet#fw4#vpn_domains
 nftset=/amdm.ru/4#inet#fw4#vpn_domains
 nftset=/amx.com/4#inet#fw4#vpn_domains
 nftset=/analog.com/4#inet#fw4#vpn_domains
