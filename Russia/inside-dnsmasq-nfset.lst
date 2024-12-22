@@ -6,6 +6,7 @@ nftset=/kyberswap.com/4#inet#fw4#vpn_domains
 nftset=/swaylend.com/4#inet#fw4#vpn_domains
 nftset=/walletconnect.org/4#inet#fw4#vpn_domains
 nftset=/tangem-tech.com/4#inet#fw4#vpn_domains
+nftset=/w3.org/4#inet#fw4#vpn_domains
 nftset=/amplitude.com/4#inet#fw4#vpn_domains
 nftset=/app-analytics-services.com/4#inet#fw4#vpn_domains
 nftset=/httpbin.org/4#inet#fw4#vpn_domains
