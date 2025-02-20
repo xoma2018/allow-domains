@@ -8,6 +8,7 @@ nftset=/sony.com/4#inet#fw4#vpn_domains
 nftset=/.sony.com/4#inet#fw4#vpn_domains
 nftset=/playstation.com/4#inet#fw4#vpn_domains
 nftset=/.playstation.com/4#inet#fw4#vpn_domains
+nftset=/kaito.ai/4#inet#fw4#vpn_domains
 nftset=/yesco.in/4#inet#fw4#vpn_domains
 nftset=/booms.io/4#inet#fw4#vpn_domains
 nftset=/kyberswap.com/4#inet#fw4#vpn_domains
