@@ -10,6 +10,7 @@ nftset=/truthsocial.com/4#inet#fw4#vpn_domains
 nftset=/washingtontimes.com/4#inet#fw4#vpn_domains
 nftset=/foxnews.com/4#inet#fw4#vpn_domains
 nftset=/bbc.com/4#inet#fw4#vpn_domains
+nftset=/thetimes.com/4#inet#fw4#vpn_domains
 nftset=/wsj.com/4#inet#fw4#vpn_domains
 nftset=/forbes.com/4#inet#fw4#vpn_domains
 nftset=/reuters.com/4#inet#fw4#vpn_domains
