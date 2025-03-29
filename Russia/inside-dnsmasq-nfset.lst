@@ -4,6 +4,7 @@ nftset=/.io/4#inet#fw4#vpn_domains
 nftset=/.ai/4#inet#fw4#vpn_domains
 nftset=/.xyz/4#inet#fw4#vpn_domains
 nftset=/.cc/4#inet#fw4#vpn_domains
+nftset=/.app/4#inet#fw4#vpn_domains
 nftset=/.finance/4#inet#fw4#vpn_domains
 nftset=/warpcast.com/4#inet#fw4#vpn_domains
 nftset=/truthsocial.com/4#inet#fw4#vpn_domains
