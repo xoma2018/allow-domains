@@ -33,7 +33,6 @@ nftset=/walletconnect.com/4#inet#fw4#vpn_domains
 nftset=/tangem-tech.com/4#inet#fw4#vpn_domains
 nftset=/w3.org/4#inet#fw4#vpn_domains
 nftset=/amplitude.com/4#inet#fw4#vpn_domains
-nftset=/app-analytics-services.com/4#inet#fw4#vpn_domains
 nftset=/httpbin.org/4#inet#fw4#vpn_domains
 nftset=/bako.global/4#inet#fw4#vpn_domains
 nftset=/web3modal.org/4#inet#fw4#vpn_domains
