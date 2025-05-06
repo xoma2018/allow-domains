@@ -11,6 +11,7 @@ nftset=/.fm/4#inet#fw4#vpn_domains
 nftset=/warpcast.com/4#inet#fw4#vpn_domains
 nftset=/app-analytics-services.com/4#inet#fw4#vpn_domains
 nftset=/truthsocial.com/4#inet#fw4#vpn_domains
+nftset=/obsproject.com/4#inet#fw4#vpn_domains
 nftset=/washingtontimes.com/4#inet#fw4#vpn_domains
 nftset=/foxnews.com/4#inet#fw4#vpn_domains
 nftset=/bbc.com/4#inet#fw4#vpn_domains
