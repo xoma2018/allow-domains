@@ -10,6 +10,7 @@ nftset=/.fm/4#inet#fw4#vpn_domains
 nftset=/x.com/4#inet#fw4#vpn_domains
 nftset=/.twimg.com/4#inet#fw4#vpn_domains
 nftset=/.twitter.com/4#inet#fw4#vpn_domains
+nftset=/app-measurement.com/4#inet#fw4#vpn_domains
 nftset=/warpcast.com/4#inet#fw4#vpn_domains
 nftset=/volet.com/4#inet#fw4#vpn_domains
 nftset=/app-analytics-services.com/4#inet#fw4#vpn_domains
