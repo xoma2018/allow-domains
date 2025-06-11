@@ -1,4 +1,3 @@
-nftset=/worldofwhispervale.com/4#inet#fw4#vpn_domains
 nftset=/.ua/4#inet#fw4#vpn_domains
 nftset=/.io/4#inet#fw4#vpn_domains
 nftset=/.ai/4#inet#fw4#vpn_domains
@@ -8,6 +7,9 @@ nftset=/.app/4#inet#fw4#vpn_domains
 nftset=/.finance/4#inet#fw4#vpn_domains
 nftset=/.foundation/4#inet#fw4#vpn_domains
 nftset=/.fm/4#inet#fw4#vpn_domains
+nftset=/x.com/4#inet#fw4#vpn_domains
+nftset=/.twimg.com/4#inet#fw4#vpn_domains
+nftset=/.twitter.com/4#inet#fw4#vpn_domains
 nftset=/warpcast.com/4#inet#fw4#vpn_domains
 nftset=/volet.com/4#inet#fw4#vpn_domains
 nftset=/app-analytics-services.com/4#inet#fw4#vpn_domains
