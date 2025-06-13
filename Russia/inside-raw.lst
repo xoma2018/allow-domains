@@ -7,6 +7,8 @@
 .finance
 .foundation
 .fm
+.media
+.gg
 stickerdom.store
 apple.com
 anydesk.com
@@ -54,8 +56,8 @@ discord.design
 discord.dev
 discord.gift
 discord.gifts
-*.discord.gg
-*.discord.media
+discord.gg
+discord.media
 discord.new
 discord.status
 discord.store
@@ -69,14 +71,7 @@ discordsez.com
 discord-activities.com
 discordactivities.com
 stable.dl2.discordapp.net
-finland10017.discord.media
-finland10069.discord.media
-finland10079.discord.media
-finland10140.discord.media
 cloudflaressl.com
-cdn.discordapp.com
-latency.discord.media
-gateway.discord.gg
 amazonaws.com
 x.com
 twimg.com
