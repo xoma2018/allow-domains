@@ -54,6 +54,7 @@ discord.dev
 discord.gift
 discord.gifts
 discord.gg
+*.discord.gg
 *.discord.media
 discord.new
 discord.status
