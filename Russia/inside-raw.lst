@@ -53,12 +53,12 @@ dis.gd
 discord-attachments-uploads-prd.storage.googleapis.com
 discord.app
 discord.co
-discord.com
+*.discord.com
 discord.design
 discord.dev
 discord.gift
 discord.gifts
-discord.gg
+*.discord.gg
 *.discord.media
 *.discordapp.net
 discord.new
