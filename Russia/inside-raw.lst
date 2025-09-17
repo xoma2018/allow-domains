@@ -21,6 +21,7 @@
 .dev
 .build
 .im
+.exchange
 rpc.ankr.com
 linea.build
 linea-rpc.publicnode.com
