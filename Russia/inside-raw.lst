@@ -22,6 +22,7 @@
 .build
 .im
 .mx
+.pm
 .exchange
 rpc.ankr.com
 linea.build
