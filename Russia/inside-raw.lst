@@ -24,10 +24,11 @@
 .mx
 .pm
 .exchange
+.network
 rpc.ankr.com
 linea.build
 linea-rpc.publicnode.com
-https://lineascan.build/
+lineascan.build
 dexscreener.com
 stickerdom.store
 api.stickerdom.store
