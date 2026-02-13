@@ -28,6 +28,12 @@
 myip.com
 kino.pub
 iplist.opencck.org
+github.com
+api.github.com
+cdn-185-199-109-133.github.com
+cdn-185-199-111-133.github.com
+lb-140-82-121-3-fra.github.com
+lb-140-82-121-4-fra.github.com
 googlevideo.com
 ggpht.com
 ytimg.com
@@ -425,7 +431,6 @@ anilibria.tv
 annas-archive.org
 anthropic.com
 api.app.prod.grazie.aws.intellij.net
-api.github.com
 api.home-connect.com
 api.openai.com
 api.protonmail.ch
@@ -672,8 +677,6 @@ byid.jetbrains.space
 c2-13-53-167-35.eu-north-1.compute.amazonaws.com
 ca.jetbrains.com
 cai.jetbrains.com
-cdn-185-199-109-133.github.com
-cdn-185-199-111-133.github.com
 cdn.jetbrains.com
 cloudconfig.jetbrains.com
 cloudfront.pkg-cdn.jetbrains.space
@@ -747,8 +750,6 @@ kotl.in
 kotlinconf.com
 kotlinlang.org
 ktor.io
-lb-140-82-121-3-fra.github.com
-lb-140-82-121-4-fra.github.com
 local.api.jetbrains.com
 lp.jetbrains.com
 lservice.jetbrains.com
